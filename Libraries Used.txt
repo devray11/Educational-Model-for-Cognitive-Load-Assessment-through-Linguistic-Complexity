@@ -1,0 +1,35 @@
+# Essential packages for the Cognitive Load Assessment System
+
+# Core ML and Data Processing (Required)
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Natural Language Processing (Required)
+nltk>=3.7
+textstat>=0.7.0
+spacy>=3.4.0
+
+# Web Framework (Required)
+flask>=2.0.0
+
+# File Processing (Required)
+PyPDF2>=2.0.0
+python-docx>=0.8.11
+
+# Utilities (Required)
+joblib>=1.1.0
+scipy>=1.7.0
+
+# Optional Advanced ML (Install if you want enhanced performance)
+# xgboost>=1.5.0
+# lightgbm>=3.3.0
+
+# Optional Deep Learning (Install if you want transformer models)
+# torch>=1.10.0
+# transformers>=4.15.0
+
+# Optional Enhanced Features (Install if you want word frequency analysis)
+# wordfreq>=2.5.0
