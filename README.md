@@ -23,3 +23,9 @@ The system is deployed as a simple web application consisting of a Flask backend
 * **Machine Learning:** Scikit-learn (RandomForestClassifier, GradientBoostingClassifier, VotingClassifier)
 * **NLP & Feature Extraction:** NLTK, textstat
 * **Data Processing & Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+
+![School](https://github.com/devray11/Educational-Model-for-Cognitive-Load-Assessment-through-Linguistic-Complexity/blob/731bed5cc21b7704ebd18dc880642e582704598d/school.png)
+
+![University](https://github.com/devray11/Educational-Model-for-Cognitive-Load-Assessment-through-Linguistic-Complexity/blob/731bed5cc21b7704ebd18dc880642e582704598d/University.png)
+
+![PhD](https://github.com/devray11/Educational-Model-for-Cognitive-Load-Assessment-through-Linguistic-Complexity/blob/731bed5cc21b7704ebd18dc880642e582704598d/Phd.png)
